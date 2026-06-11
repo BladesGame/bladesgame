@@ -4,7 +4,11 @@
 
 ## 前言
 
-有些時候你就是想爽一把，或是測試某些東西。騎砍2內建控制台指令可以做到大部分事情。但——**第一輪通關前建議不要用**，會毀掉遊戲體驗。
+有些時候你就是想爽一把，或是測試某些東西。騎砍2內建控制台指令可以做到大部分事情。但——
+
+> ⚠️ **警告：開控制台 = Steam 成就永久鎖定。** 一旦用過密技，這個存檔再也拿不到任何成就。而且第一輪通關前強烈不建議用，會徹底毀掉遊戲體驗。
+
+建議開一個獨立存檔玩密技，不要汙染你的主力存檔。
 
 ---
 
@@ -63,7 +67,7 @@
 | 帝國鏈甲 | `imperial_chain_mail` |
 | 戰馬 | `war_horse` |
 
-> 完整 ID 列表可到 Nexus Mods 搜尋 "Bannerlord Item ID List"。
+> 完整 ID 列表可到 [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord) 搜尋 "Bannerlord Item ID List"。
 
 ---
 

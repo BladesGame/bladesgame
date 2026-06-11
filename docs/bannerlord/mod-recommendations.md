@@ -27,7 +27,7 @@
 | **Steam 工作坊** | 一鍵訂閱、自動更新 | MOD 數量較少 |
 | **Nexus Mods + Vortex** | MOD 最全、可手動管理版本 | 需要下載管理器和手動排序 |
 
-> 🎯 新手推薦 Steam 工作坊。進階玩家推薦 Nexus Mods + Vortex。
+> 🎯 新手推薦 Steam 工作坊。進階玩家推薦 [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord) + Vortex。
 
 ### 1.2 四個必裝前置 MOD
 
