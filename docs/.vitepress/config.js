@@ -5,7 +5,10 @@ export default defineConfig({
   title: 'Blades Game 游刃攻略',
   description: '找攻略來遊刃，讓你的遊戲時光遊刃有餘。',
   head: [
+    ['script', { async: 'true', src: 'https://www.googletagmanager.com/gtag/js?id=G-DGK5K5D3BV' }],
+    ['script', {}, 'window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-DGK5K5D3BV");'],
     ['script', { async: 'true', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5694985640527222', crossorigin: 'anonymous' }],
+    ['script', {}, '(adsbygoogle = window.adsbygoogle || []).push({});'],
     ['script', {}, '(adsbygoogle = window.adsbygoogle || []).push({});'],
   ],
   themeConfig: {
