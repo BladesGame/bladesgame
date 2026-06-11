@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as r,a2 as o}from"./chunks/framework.BZO4qERu.js";const g=JSON.parse('{"title":"攻略內容回報","description":"","frontmatter":{},"headers":[],"relativePath":"feedback.md","filePath":"feedback.md"}'),l={name:"feedback.md"};function d(i,t,n,s,h,c){return e(),r("div",null,[...t[0]||(t[0]=[o("",28)])])}const b=a(l,[["render",d]]);export{g as __pageData,b as default};
